@@ -1,0 +1,19 @@
+h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 30px;
+}
+button{
+    padding: 20px 30px 20px 30px;
+    background-color:blueviolet;
+    border-radius: 30px;
+    border: none;
+    transition: .2s;
+}
+button:hover{
+    background-color: aquamarine;
+    
+}
